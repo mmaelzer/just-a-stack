@@ -1,0 +1,26 @@
+{
+  "name": "just-a-stack",
+  "version": "0.1.0",
+  "description": "just a stack implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mmaelzer/just-a-stack"
+  },
+  "keywords": [
+    "stack",
+    "data-structure"
+  ],
+  "author": "Mike Maelzer",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "should": "~1.2.0",
+    "mocha": "~1.6.0"
+  },
+  "dependencies": {
+    "just-a-list": "~0.2.0"
+  }
+}
