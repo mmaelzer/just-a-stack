@@ -15,7 +15,7 @@
     "data-structure"
   ],
   "author": "Mike Maelzer",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "devDependencies": {
     "should": "~1.2.0",
     "mocha": "~1.6.0"

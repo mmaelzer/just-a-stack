@@ -1,4 +1,3 @@
-[![build status](https://secure.travis-ci.org/mmaelzer/just-a-stack.png)](http://travis-ci.org/mmaelzer/just-a-stack)
 
 just-a-stack
 ============
